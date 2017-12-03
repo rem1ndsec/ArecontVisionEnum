@@ -3,7 +3,8 @@ This simple bash script enumerates access to ArecontVision cameras by requesting
 
 # Usage
 Clone the repo or wget the raw script.  
-./scan.sh if you want the results in standard output  
+Create cams.txt and place your camera ip's(ports too unless 80) inside.  
+./scan.sh if you want the results in standard output.  
 ./scan.sh > file.txt to save them to file. 
 
 # Easy Viewing
